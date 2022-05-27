@@ -1,0 +1,18 @@
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "description": "npm test",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tkctako/npm.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tako9555@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
